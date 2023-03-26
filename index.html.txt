@@ -1,1 +1,8 @@
-test file.
+created repo
+configure repo with local machine.
+created new s3 bucket with unique name.
+enable static website hosting feature.
+make the bucket public if required.
+created pipeline using aws codepipeline
+configure github account with codepipeline.
+push code from local machine to github and see the changes on aws s3 bucket.
